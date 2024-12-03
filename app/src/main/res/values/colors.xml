@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="background_color">#2E2B2A</color> <!-- темно-серый фон -->
+    <color name="pumpkin_orange">#50FF8C00</color> <!-- тыквенный оранжевый -->
+    <color name="pumpkin_dark">#D66A29</color> <!-- темный тыквенный оранжевый -->
+    <color name="halloween_black">#1A1A1A</color> <!-- черный -->
+    <color name="halloween_yellow">#FFD700</color> <!-- золотисто-желтый -->
+    <color name="halloween_purple">#6A0DAD</color> <!-- фиолетовый -->
+    <color name="pumpkin_green">#3E8E41</color> <!-- зеленый (листва, тыква) -->
+    <color name="button_background">#D66A29
+    </color> <!-- фоновый цвет кнопки (темно-тыквенный оранжевый) -->
+    <color name="button_text">#FFFFFF</color> <!-- текст кнопки (белый) -->
+    <color name="button_pressed">#A65C29</color> <!-- цвет кнопки при нажатии (темнее оранжевый) -->
+    <color name="button_border">#FF8C00</color> <!-- граница кнопки (тыковно-оранжевый) -->
+    <color name="button_shadow">#8B5C2F</color> <!-- тень кнопки (темный коричневый) -->
+    <color name="highlight_text">#FFD700</color> <!-- подсвеченный текст (золотисто-желтый) -->
+
+    <color name="game_tile_0">#BCB09B</color>
+    <color name="game_tile_2">#ECE3D9</color>
+    <color name="game_tile_4">#EBDFC7</color>
+    <color name="game_tile_8">#F0B078</color>
+    <color name="game_tile_16">#F39463</color>
+    <color name="game_tile_32">#F47B5F</color>
+    <color name="game_tile_64">#F45E3B</color>
+    <color name="game_tile_128">#EBCE71</color>
+    <color name="game_tile_256">#EBCB61</color>
+    <color name="game_tile_512">#E5C764</color>
+    <color name="game_tile_1024">#EBC43F</color>
+    <color name="game_tile_2048">#ECC02E</color>
+    <color name="game_tile_other">#3B3B31</color>
+
+    <color name="game_text_0">#BCB09B</color>
+    <color name="game_text_2">#766F62</color>
+    <color name="game_text_4">#6D665B</color>
+    <color name="game_text_8">#F8F7F1</color>
+    <color name="game_text_16">#F8F4EB</color>
+    <color name="game_text_32">#F8F4EB</color>
+    <color name="game_text_64">#F8F4EB</color>
+    <color name="game_text_128">#F8F4EB</color>
+    <color name="game_text_256">#F8F4EB</color>
+    <color name="game_text_512">#F8F7F1</color>
+    <color name="game_text_1024">#F8F7F1</color>
+    <color name="game_text_2048">#F8F7F1</color>
+    <color name="game_text_other">#F8F6EF</color>
+
+
+
+</resources>

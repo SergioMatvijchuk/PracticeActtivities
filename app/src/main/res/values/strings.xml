@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PracticeActtivities</string>
+
+    <string name="app_game">2048</string>
+    <string name="app_tv_2048">2048</string>
+    <string name="app_tv_new_game">NEW</string>
+    <string name="app_game_best_result">Best score</string>
+    <string name="app_game_score">SCORE</string>
+    <string name="app_game_undo">UNDO</string>
+
+    <string name="app_game_text">Собирай на Halloween 2048</string>
+
+</resources>
